@@ -1,4 +1,4 @@
-# :shinto_shrine:Desafio de Projetos no uso de Git/GitHub
+# :shinto_shrine:Desafio de Projetos: Uso do Git/GitHub
 Git criado para resolução do 1º desafio de código proposto no BootCamp LocalizaLabs 2022.
 
 Baseado nas boas praticas do uso do GitHub cada projeto referente a um módulo do BootCamp será compartilhado através do seu próprio repositório, porém afim de centralizar e facilitar o acesso a todos os projetos relacionados será criado uma "lista" no GitHub e este arquivo README.md terá um link direto para cada projeto.
