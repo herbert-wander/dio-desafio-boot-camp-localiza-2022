@@ -8,6 +8,7 @@ Baseado nas boas praticas do uso do GitHub cada projeto referente a um módulo d
 - [Emojis & Icons Para Markdown Format](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 - [Markdown Syntax Quick Ref](https://www.markdownguide.org/basic-syntax/)
 - [Visual Studio Code Plugin For Better Markdown File Preview](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced&ssr=false#qna)
+- [Auto Start SSH AGENT](https://docs.github.com/en/github-ae@latest/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases)
 
 ## :mortar_board:Repositórios BootCamp LocalizaLabs 2022
 ### Lista GitHub
